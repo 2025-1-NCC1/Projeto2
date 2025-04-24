@@ -72,7 +72,10 @@ Coloque código do prompt de comnando se for necessário
 ## 💻 Configuração para Desenvolvimento
 
 Para a instalação de desenvolvimento do projeto, é necessário a utilização da plataforma Unity
-para desenvolver o jogo, utilizar a versão 6000.0.038f1
+para desenvolver o jogo, utilizar a versão 6000.0.038f1. Para o código, é necessário a utilização
+de um editor de código fonte, Visual Studio Code foi o utilizado, a linguagem utilizada foi C#.
+
+Importante para que suba o projeto ao github para que cada mudança na própria Unity, fique salva em seu github desktop para não perder as alterações do projeto.
 
 -<a href="https://godotengine.org/download">GODOT</a>
 
