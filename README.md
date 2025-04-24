@@ -26,13 +26,9 @@ Vide tutoriais do PI.
 
   Game by Rafael Chagas, Izabelli, Joel, Rainer
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
-
+Nosso projeto busca conscientizar o consumo de energia, porém de uma forma divertida e competitiva, o jogo mostra como  
+devemos economizar energia mas sem perder nossa qualidade de vida em base de escolhas de ações do nosso dia a dia. 
+O equilibrio das ações é a chave para fazer um dia consciente!
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
