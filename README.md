@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src=(https://1drv.ms/i/c/86baeb171f9a8eb5/ES1nr0ZBjUdGpNjKVY79DkABUdO2AWTBm1hZo89bHXbxtQ?e=msrQV6)
   Game by Rafael Chagas, Izabelli, Joel, Rainer
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
