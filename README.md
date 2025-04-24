@@ -21,7 +21,8 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-  <img src="https://api.onedrivevercel.app/api/raw/?link=https://1drv.ms/i/c/86baeb171f9a8eb5/ES1nr0ZBjUdGpNjKVY79DkABUdO2AWTBm1hZo89bHXbxtQ?e=9dtyTl"  />
+  <img src=<p align="center">
+  <img src="https://raw.githubusercontent.com/rafachagas06/imagens/main/2025-04-23.png" alt="Imagem do Rafa" width="400" />
 </p>
 
   Game by Rafael Chagas, Izabelli, Joel, Rainer
