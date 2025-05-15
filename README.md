@@ -26,9 +26,11 @@ Vide tutoriais do PI.
 
   Game by Rafael Chagas, Izabelli, Joel, Rainer
 
-Nosso projeto tem como principal objetivo conscientizar os jogadores sobre o consumo responsável de energia, utilizando uma abordagem divertida, interativa e competitiva. Através de um jogo de decisões cotidianas, os participantes são desafiados a gerenciar seus recursos — como energia e qualidade de vida — ao longo de cinco dias simulados.
+Nosso projeto tem como principal objetivo conscientizar os jogadores sobre o consumo responsável de energia, utilizando uma abordagem divertida, interativa e competitiva. Através de um jogo de decisões cotidianas, os participantes são desafiados a gerenciar seus recursos como energia e qualidade de vida ao longo de cinco dias simulados.
 
 O diferencial do jogo está na forma como ele transforma um tema sério e atual em uma experiência lúdica e educativa. A cada turno, os jogadores se deparam com diferentes situações do dia a dia como usar eletrodomésticos, praticar atividades ou descansar e precisam escolher suas ações com sabedoria. Cada escolha afeta diretamente o nível de energia consumido e estrelas (representadndo qualidade de vida), exigindo equilíbrio entre economia e bem-estar.
+
+O projeto foi desenvolvido para a empresa Flex Solution.
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
