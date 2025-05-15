@@ -75,6 +75,9 @@ Para a instalação de desenvolvimento do projeto, é necessário a utilização
 para desenvolver o jogo, utilizar a versão 6000.0.038f1. Para o código, é necessário a utilização
 de um editor de código fonte, Visual Studio Code foi o utilizado, a linguagem utilizada foi C#.
 
+Para subir o projeto no Unity, é necessário baixar o zip. do projeto em Code na página do github, extrair a pasta, ir no Unity, criar uma conta, 
+utilizar a versão 6000.0.038f1, Ir em Add, add from disk, selecionar em arquivos a pasta do projeto e aproveitar!
+
 Importante para que suba o projeto ao github para que cada mudança na própria Unity, fique salva em seu github desktop para não perder as alterações do projeto.
 
 -<a href="https://unity.com/pt">Unity</a>
