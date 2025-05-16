@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## DevSparker
 
-## Integrantes: [Izabelli](https://github.com/izaabs), Rainer, Joel, Rafael Chagas
+## Integrantes: [Izabelli](https://github.com/izaabs), Rainer, [Joel](https://github.com/jaoos), [Rafael Chagas](https://github.com/rafaelchagas06)
 
 ## Professores Orientadores: Gilles Leite
 
