@@ -472,6 +472,24 @@ MonoBehaviour:
       descricao: Acender a casa toda
       custoEnergia: 35
       custoEstrelas: 1
+  - nomePeriodo: "Lavar lou\xE7a "
+    acao1:
+      descricao: "Na m\xE3o"
+      custoEnergia: 0
+      custoEstrelas: -1
+    acao2:
+      descricao: "Lava-lou\xE7as"
+      custoEnergia: 30
+      custoEstrelas: 1
+  - nomePeriodo: "Fun\xE7\xF5es da casa"
+    acao1:
+      descricao: Usar Alexa
+      custoEnergia: 35
+      custoEstrelas: 1
+    acao2:
+      descricao: "Fazer a m\xE3o"
+      custoEnergia: 0
+      custoEstrelas: -1
   textoUI: {fileID: 1192417217}
 --- !u!1 &878921459
 GameObject:
