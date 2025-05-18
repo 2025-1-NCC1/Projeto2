@@ -1,5 +1,7 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+
 
 public class TelaResultado : MonoBehaviour
 {
@@ -21,4 +23,10 @@ public class TelaResultado : MonoBehaviour
 
         textoResultado.text = resultado; //atribui o texto ao UI do unity
     }
+
+    public void VoltarParaMenu() // volta ao menu
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }
+
