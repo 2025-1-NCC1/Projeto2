@@ -12,7 +12,7 @@
 
 ## Integrantes: [Izabelli Ribeiro](https://github.com/izaabs), [Rainer Vargas](https://github.com/rainer088), [Joel Ademir](https://github.com/jaoos) e [Rafael Chagas](https://github.com/rafaelchagas06)
 
-## Professores Orientadores: Francisco de Souza Escobar, Renata Muniz Do Nascimento, Lucy Mari Tabuti, Victor Bruno Alexander Rosetti de Quiroz e [Gilles Leite](https://www.linkedin.com/in/gillespleite/?original_referer=https%3A%2F%2Fgithub.com%2F2025-1-NCC1%2FProjeto1%3Ftab%3Dreadme-ov-file)
+## Professores Orientadores: [Francisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/), [Renata Muniz Do Nascimento](https://www.linkedin.com/in/remuniz/), [Lucy Mari Tabuti](https://www.linkedin.com/in/lucymari/), [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/) e [Gilles Leite](https://www.linkedin.com/in/gillespleite/)
 
 ## Descrição
 
