@@ -12,7 +12,7 @@
 
 ## Integrantes: [Izabelli](https://github.com/izaabs), [Rainer](https://github.com/rainer088), [Joel](https://github.com/jaoos), [Rafael Chagas](https://github.com/rafaelchagas06)
 
-## Professores Orientadores: Gilles Leite
+## Professores Orientadores: Francisco de Souza Escobar, Renata Muniz Do Nascimento, Lucy Mari Tabuti, Victor Bruno Alexander Rosetti de Quiroz e Gilles Leite
 
 ## Descrição
 
@@ -20,7 +20,7 @@
   <img src=
 </p>
 
-  Game by Rafael Chagas, Izabelli, Joel, Rainer
+  Game by Rafael Chagas, Izabelli Ribeiro, Joel Ademir e Rainer Vargas
 
 Nosso projeto tem como principal objetivo conscientizar os jogadores sobre o consumo responsável de energia, utilizando uma abordagem divertida, interativa e competitiva. Através de um jogo de decisões cotidianas, os participantes são desafiados a gerenciar seus recursos como energia e qualidade de vida ao longo de cinco dias simulados.
 
