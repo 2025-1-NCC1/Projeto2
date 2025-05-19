@@ -10,7 +10,7 @@
 
 ## DevSparker
 
-## Integrantes: [Izabelli](https://github.com/izaabs), [Rainer](https://github.com/rainer088), [Joel](https://github.com/jaoos), [Rafael Chagas](https://github.com/rafaelchagas06)
+## Integrantes: [Izabelli Ribeiro](https://github.com/izaabs), [Rainer Vargas](https://github.com/rainer088), [Joel Ademir](https://github.com/jaoos) e [Rafael Chagas](https://github.com/rafaelchagas06)
 
 ## Professores Orientadores: Francisco de Souza Escobar, Renata Muniz Do Nascimento, Lucy Mari Tabuti, Victor Bruno Alexander Rosetti de Quiroz e Gilles Leite
 
