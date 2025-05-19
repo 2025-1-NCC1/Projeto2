@@ -16,7 +16,7 @@
 
 ## Descrição
 
-
+![Foto Jogo](https://github.com/2025-1-NCC1/Projeto2/blob/main/imagens/menu%20ecnomiccity.PNG)
 
 <p align="center">
   <img src= (https://github.com/2025-1-NCC1/Projeto2/blob/main/imagens/menu%20ecnomiccity.PNG)
