@@ -64,7 +64,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o JOGO.exe na pasta documento --- Projeto Interdisciplinar e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
@@ -100,4 +100,5 @@ Aqui estão as referências usadas no projeto.
 3. <https://chooser-beta.creativecommons.org/>
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+6. <https://unity.com/pt>
+7. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
